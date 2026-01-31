@@ -1,4 +1,4 @@
-# AquaScoot – Display ERC128128 (ST7571)
+# - ESP32mini - Display ERC128128 (ST7571) test
 
 ## Назначение
 Графический LCD ERC128128FS02-3, контроллер ST7571, режим I²C, ESP32-C3.
